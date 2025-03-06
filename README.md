@@ -1,0 +1,1 @@
+This will be a web application to show off my portfolio of work I have accomplished along with other personal facts about my life. It will be built using React as the frontend with Flask API acting as the backend.
